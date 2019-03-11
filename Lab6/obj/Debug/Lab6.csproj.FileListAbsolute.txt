@@ -8,3 +8,13 @@ C:\Users\Galyamov\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.
 C:\Users\Galyamov\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
 C:\Users\Galyamov\source\repos\Lab6\Lab6\obj\Debug\Lab6.exe
 C:\Users\Galyamov\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Inkjet\Documents\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Inkjet\Documents\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Inkjet\Documents\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Inkjet\Documents\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\Inkjet\Documents\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\Inkjet\Documents\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Inkjet\Documents\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Inkjet\Documents\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Inkjet\Documents\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Inkjet\Documents\Lab6\Lab6\obj\Debug\Lab6.pdb
